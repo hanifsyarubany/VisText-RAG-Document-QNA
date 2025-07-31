@@ -21,7 +21,7 @@ uvicorn main:app --port 8000
 ```
 #### ✅ Run the Frontend (Streamlit)
 ```bash
-streamlit run frontend.py
+streamlit run frontend.py --port 8001
 ```
 
 ---
