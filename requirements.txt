@@ -1,0 +1,14 @@
+ultralytics
+git+https://github.com/illuin-tech/colpali
+groq
+pillow
+pymilvus
+sentence-transformers
+uvicorn
+fastapi
+opencv-python
+pytesseract
+PyMuPDF
+pydantic
+chainlit
+pybase64
