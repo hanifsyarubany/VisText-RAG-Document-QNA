@@ -1,5 +1,4 @@
 # VisText-RAG-DocumentQNA
-=======
 ## ⚙️ Reproducing the Environment
 
 ```bash
@@ -41,6 +40,3 @@ python execute_indexing.py
 ```bash
 python execute_indexing.py --initialize
 ```
-Thankyou
-sss
-sadsad
