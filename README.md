@@ -3,7 +3,7 @@
 This repository provides a complete implementation of a **multimodal RAG system** designed for document question answering. It includes an **indexing pipeline** that processes your document corpora by extracting both text and visual elements (such as tables and figures) and storing them in a vector database using **sentence embeddings** and **ColPALI image embeddings**. It also features a **chat inference pipeline** that handles user queries, performs dual retrieval over text and image embeddings, and generates context-aware answers using a vision-capable language model. This setup enables accurate and explainable retrieval from visually rich documents.
 
 📝 You can read the full article here:  
-👉 [ColPALI Meets DocLayNet: A Vision-Aware Multimodal RAG for Document-QA](https://medium.com/@hanifsarubany10/towards-a-zero-shot-pipeline-for-ai-based-image-editing-application-4c509bc82ff1)
+👉 [ColPALI Meets DocLayNet: A Vision-Aware Multimodal RAG for Document QA - Medium](https://medium.com/@hanifsarubany10/towards-a-zero-shot-pipeline-for-ai-based-image-editing-application-4c509bc82ff1)
 
 
 ## 🖼️ Visual Examples
