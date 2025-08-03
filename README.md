@@ -4,10 +4,10 @@
 
 ### 🔍 Evaluation: Comparison with Common RAG Pipeline
 <p align="center">
-  <img src="assets/comparison_result" alt="Evaluation Result" width="700"/>
+  <img src="assets/comparison_result.png" alt="Evaluation Result" width="700"/>
 </p>
 
-> Our pipeline demonstrates superior object localization and editing accuracy compared to ChatGPT, particularly in tasks requiring visual reasoning and precise masking.
+> Our pipeline demonstrates superior retrieval accuracy and multimodal understanding compared to common RAG pipelines, especially in handling visually complex document content.
 
 ---
 
