@@ -59,3 +59,35 @@ python execute_indexing.py
 ```bash
 python execute_indexing.py --initialize
 ```
+
+---
+## 📚 Citation
+If you use this work, please consider citing the following foundational papers:
+```bibtex
+@misc{faysse2024colpaliefficientdocumentretrieval,
+  title={ColPali: Efficient Document Retrieval with Vision Language Models}, 
+  author={Manuel Faysse and Hugues Sibille and Tony Wu and Bilel Omrani and Gautier Viaud and Céline Hudelot and Pierre Colombo},
+  year={2024},
+  eprint={2407.01449},
+  archivePrefix={arXiv},
+  primaryClass={cs.IR},
+  url={https://arxiv.org/abs/2407.01449}, 
+}
+@inproceedings{pfitzmann2022doclaynet,
+  title={Doclaynet: A large human-annotated dataset for document-layout segmentation},
+  author={Pfitzmann, Birgit and Auer, Christoph and Dolfi, Michele and Nassar, Ahmed S and Staar, Peter},
+  booktitle={Proceedings of the 28th ACM SIGKDD conference on knowledge discovery and data mining},
+  pages={3743--3751},
+  year={2022}
+}
+@inproceedings{reimers-2020-multilingual-sentence-bert,
+    title = "Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation",
+    author = "Reimers, Nils and Gurevych, Iryna",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+    month = "11",
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2004.09813",
+}
+```
+
