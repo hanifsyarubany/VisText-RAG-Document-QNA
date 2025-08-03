@@ -1,8 +1,19 @@
 # VisText-RAG-DocumentQNA
 
-## 🎨 Streamlit App – Frontend Overview
+## 🖼️ Visual Examples
+
+### 🔍 Evaluation: Comparison with Common RAG Pipeline
 <p align="center">
-  <img src="[assets/frontend_ui.png](https://cdn-images-1.medium.com/v2/resize:fit:1200/1*pO6fpSO5ov-R4aluq59R-Q.png)" alt="Alt Text" width="700"/>
+  <img src="assets/comparison_result" alt="Evaluation Result" width="700"/>
+</p>
+
+> Our pipeline demonstrates superior object localization and editing accuracy compared to ChatGPT, particularly in tasks requiring visual reasoning and precise masking.
+
+---
+
+### 🎨 Chainlit App – Frontend Overview
+<p align="center">
+  <img src="assets/chainlit_frontend.png" alt="Streamlit UI" width="700"/>
 </p>
 
 ---
