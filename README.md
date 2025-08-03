@@ -2,7 +2,7 @@
 
 ## 🎨 Streamlit App – Frontend Overview
 <p align="center">
-  <img src="[assets/frontend_ui.png](https://cdn-images-1.medium.com/v2/resize:fit:1200/1*pO6fpSO5ov-R4aluq59R-Q.png)" alt="Streamlit UI" width="700"/>
+  <img src="[assets/frontend_ui.png](https://cdn-images-1.medium.com/v2/resize:fit:1200/1*pO6fpSO5ov-R4aluq59R-Q.png)" alt="Alt Text" width="700"/>
 </p>
 
 ---
