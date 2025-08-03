@@ -13,7 +13,7 @@
 
 ### 🎨 Chainlit App – Frontend Overview
 <p align="center">
-  <img src="assets/chainlit_frontend.png" alt="Streamlit UI" width="700"/>
+  <img src="assets/chainlit_frontend.png" alt="Streamlit UI" width="1000"/>
 </p>
 
 ---
