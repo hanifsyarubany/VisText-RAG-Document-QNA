@@ -33,6 +33,9 @@ conda activate multimodal_rag
 
 # Install Libraries
 pip install -r requirements.txt
+
+# Install Tesseract OCR
+sudo apt install tesseract-ocr tesseract-ocr-eng
 ```
 
 ---
