@@ -44,9 +44,9 @@ Once you've set up the environment and downloaded the required models, you can l
 ```bash
 uvicorn main:app --port 8000 
 ```
-#### ✅ Run the Frontend (Streamlit)
+#### ✅ Run the Frontend (Chainlit)
 ```bash
-streamlit run frontend.py --port 8001
+chainlit run frontend.py --port 8001
 ```
 
 ---
