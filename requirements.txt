@@ -12,3 +12,4 @@ PyMuPDF
 pydantic
 chainlit
 pybase64
+pymilvus[milvus_lite]
