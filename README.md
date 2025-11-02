@@ -25,7 +25,6 @@ This repository provides a complete implementation of a **multimodal RAG system*
 ---
 
 ## ⚙️ Reproducing the Environment
-
 ```bash
 # Create Conda Environment
 conda create -n multimodal_rag python=3.11
@@ -36,6 +35,17 @@ pip install -r requirements.txt
 
 # Install Tesseract OCR
 sudo apt install tesseract-ocr tesseract-ocr-eng
+```
+
+---
+## ⚙️ Downloading Model Checkpoints
+```bash
+mkdir pretrained_models && cd pretrained_models
+pip install -U huggingface_hub
+hf download vidore/colqwen2.5-v0.2 --local-dir colqwen2.5-v0.2
+hf download mixedbread-ai/mxbai-embed-large-v1 --local-dir mxbai-embed-large-v1
+mkdir yolo-doclaynet && cd yolo-doclaynet
+wget https://huggingface.co/hantian/yolo-doclaynet/resolve/main/yolov12l-doclaynet.pt
 ```
 
 ---
