@@ -41,7 +41,7 @@ sudo apt install tesseract-ocr tesseract-ocr-eng
 ## ⚙️ Downloading Model Checkpoints
 ```bash
 mkdir pretrained_models && cd pretrained_models
-pip install -U huggingface_hub
+pip install transformers
 hf download vidore/colqwen2.5-v0.2 --local-dir colqwen2.5-v0.2
 hf download mixedbread-ai/mxbai-embed-large-v1 --local-dir mxbai-embed-large-v1
 mkdir yolo-doclaynet && cd yolo-doclaynet
